@@ -28,6 +28,7 @@
 
 #### **Other platforms**
 I am a new and very intruiged Hack the Box user! [Cipher Visor at Hack the Box](https://www.hackthebox.eu/home/users/profile/432595)
+https://www.hackthebox.eu/badge/432595
 
 #### **Who I work with**
 I've worked with to both develop code and own HTB CTFs along side
