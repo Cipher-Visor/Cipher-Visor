@@ -16,7 +16,7 @@
 #### **Tools I use**
 * Windows 10 for development
 *   Visual Studio C++
-*   Visual Sutido Code
+*   Visual Stuido Code
 *   CMD and Powershell
 * Linux
 *   Kali Linux for learning about cyber offense/defense
