@@ -31,6 +31,6 @@ I am a new and very intruiged Hack the Box user! https://www.hackthebox.eu/home/
 
 #### **Who I work with**
 I've worked with to both develop code and own HTB CTFs along side
-* [Nano-AI] (https://github.com/nano-ai)
-* [BerkM125] (https://github.com/BerkM125)
-* [DiamondMiner88] (https://github.com/DiamondMiner88)
+* [Nano-AI](https://github.com/nano-ai)
+* [BerkM125](https://github.com/BerkM125)
+* [DiamondMiner88](https://github.com/DiamondMiner88)
