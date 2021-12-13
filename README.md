@@ -1,6 +1,6 @@
-# **Hey. I'm Cipher Visor**
+# **I'm Cipher Visor**
 
-### **I am yet another junior programmer clogging the GitHub servers with his spaghetti code. I'm also looking into networking and more interestingly cyber security.**
+### **Another new programmer trying learn the trade. I figure if I can teach something well then I will have learned it well myself, hence my train of thought here. I'm also looking into networking and more interestingly cyber security.**
 
 #### **Languages and shells I'm familiar with**
 * C++ (as well as on the Arduino platform)
