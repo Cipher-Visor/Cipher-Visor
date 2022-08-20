@@ -5,6 +5,7 @@
 #### **Languages and shells I'm familiar with**
 * C++ (as well as on the Arduino platform)
 * Python
-* Bash
-* Batch 
-* Powershell
+* Unix sh/sh derivatives
+* MS Batch, Powershell
+* HTML, CSS, basic JavaScript (not the best)
+* Learning more about SQL
